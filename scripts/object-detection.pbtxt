@@ -1,0 +1,48 @@
+item {
+  id: 1
+  name: 'DeathsHead'
+}
+item {
+  id: 2
+  name: 'Swastika'
+}
+item {
+  id: 3
+  name: 'OdalRune'
+}
+item {
+  id: 4
+  name: 'SSBolts'
+}
+item {
+  id: 5
+  name: 'BlackSun'
+}
+item {
+  id: 6
+  name: 'IdentityEvropa'
+}
+item {
+  id: 7
+  name: 'ValKnot'
+}
+item {
+  id: 8
+  name: 'LifeRune'
+}
+item {
+  id: 9
+  name: 'IronCross'
+}
+item {
+  id: 10
+  name: 'GenerationIdentitaire'
+}
+item {
+  id: 11
+  name: 'WolfsAngel'
+}
+item {
+  id: 12
+  name: 'BrokenSun'
+}
