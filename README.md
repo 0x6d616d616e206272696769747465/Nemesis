@@ -24,4 +24,6 @@ The graph currently detects on the following 12 classes:
 Follow this project or @emilymaxima on twitter for new updates (hopefully will be semi-regular)
 
 SPECIAL THANKS:
+@datitran - helper script originals
 @werjortitsko
+@sentdex - for being awesome
