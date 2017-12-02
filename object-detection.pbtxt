@@ -1,0 +1,100 @@
+item {
+  id: 1
+  name: 'BlackSun'
+}
+item {
+  id: 2
+  name: 'LifeRune'
+}
+item {
+  id: 3
+  name: 'OdalRune'
+} 
+item {
+  id: 4
+  name: 'DeathsHead'
+}
+item {
+  id: 5
+  name: 'Swastika'
+}
+item {
+  id: 6
+  name: 'ValKnot'
+}
+item {
+  id: 7
+  name: 'BrokenSun'
+}
+item {
+  id: 8
+  name: 'Vanguard' 
+}
+item {
+  id: 9
+  name: 'DeusVult'
+}
+item {
+  id: 10
+  name: 'ConfederateFlag'
+}
+item {
+  id: 11
+  name: 'KKKInsignia'
+}
+item {
+  id: 12
+  name: 'NSMFlag'
+}
+item {
+  id: 13
+  name: 'SouthernNationalist'
+}
+item {
+  id: 14
+  name: 'VanguardFasces'
+}
+item {
+  id: 15
+  name: 'KEK'
+}
+item {
+  id: 16
+  name: 'KEKFlag'
+}
+item {
+  id: 17
+  name: 'KKKLoyalWhiteKnights'
+}
+item {
+  id: 18
+  name: 'TraditionalWorkersParty'
+}
+item {
+  id: 19
+  name: 'IdentityEvropa'
+}
+item {
+  id: 20
+  name: 'IronCross'
+}
+item {
+  id: 21
+  name: 'SSBolts'
+}
+item {
+  id: 22
+  name: 'RightWingDeathSquad'
+}
+item {
+  id: 23
+  name: 'GenerationIdentitaire'
+}
+item {
+  id: 24
+  name: 'SASigil'
+}
+item {
+  id: 25
+  name: 'WolfsAngel'
+}
